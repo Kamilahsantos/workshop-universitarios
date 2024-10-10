@@ -1,6 +1,5 @@
 # workshop-universitarios
 
-repo workshop adicionando documentacao
 
 ## My Awesome Backend Application
 
@@ -32,3 +31,4 @@ Contributions are always welcome! If you find any issues or have suggestions for
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
+
